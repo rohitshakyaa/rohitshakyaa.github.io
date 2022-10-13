@@ -18,6 +18,7 @@ module.exports = {
       },
       screens: {
         "custom-md": { max: "1100px" },
+        xs: { max: "450px" },
       },
     },
   },
