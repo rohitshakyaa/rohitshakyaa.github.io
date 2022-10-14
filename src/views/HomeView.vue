@@ -18,9 +18,10 @@
         <div class="mt-5">
           <h4 class="text-xl font-semibold tracking-wide">A Bit About Me</h4>
           <p class="text-sm mt-3">
-            I'm a paragraph. Click here to add your own text and edit me. I’m a
-            great place for you to tell a story and let your users know a little
-            more about you.
+            I am seeking opportunities to join a company that can help me in
+            enhancing my skills, strengthening my knowledge, and realizing my
+            potential. I am willing to explore a wide variety of opportunities
+            that can help me gain perspective.
           </p>
         </div>
         <div class="flex space-x-4 mt-8">
